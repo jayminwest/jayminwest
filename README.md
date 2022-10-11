@@ -1,4 +1,4 @@
-Hello! My name is Jaymin West and I am currently studying Computer Science at Gonzaga University with a focus on Machine Learning. I'm
-willing to collaborate and work on any project as all I want is to learn more about computer science. Cheers. 
+Hello! My name is Jaymin West and I am currently a Senior Computer Science student at Gonzaga University. Currently, I work as an intern at Lite-Check in Spokane, Washington.
 
 jayminwest@gmail.com
+www.linkedin.com/in/jaymin-west
