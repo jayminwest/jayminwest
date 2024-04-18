@@ -1,4 +1,4 @@
-Hello! My name is Jaymin West and I am a recent Computer Science graduate from Gonzaga University.
+Software Engineer and Data Analyst
 jayminwest@gmail.com 
 
 www.linkedin.com/in/jaymin-west
