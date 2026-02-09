@@ -1,8 +1,8 @@
-Helping developers build in days what used to take months w/ agentic engineering | Founder @ KotaDB | Exited Rowana | Writing the book on Agentic Engineering 
+Agentic Engineer | Helping teams adopt AI agents and ship faster.
 
 https://consulting.jayminwest.com/
 
-https://jayminwest.com/
+https://www.youtube.com/@jaymin-west
 
 https://www.skool.com/prompt-to-prod
 
