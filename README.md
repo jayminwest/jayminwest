@@ -7,5 +7,3 @@ https://www.youtube.com/@jaymin-west
 https://www.skool.com/prompt-to-prod
 
 www.linkedin.com/in/jaymin-west
-
-hello@jayminwest.com
