@@ -1,6 +1,8 @@
-Agentic Engineer | Helping teams adopt AI agents and ship faster.
+I'm a Forward Deployed Engineer at Tidemark, working inside portfolio companies' engineering teams to change how they build software with AI. 
 
-https://jayminwest.com/
+On the side I make YouTube videos about agentic engineering. Before Tidemark I founded Rowana (acquired 2025). I live in Seattle.
+ 
+https://jaymin.com/
 
 https://www.youtube.com/@jaymin-west
 
